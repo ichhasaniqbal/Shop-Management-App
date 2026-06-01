@@ -79,4 +79,22 @@
 
     </GridLayout>
 
+    <!-- This view acts as a flexible space pusher to push the logout button to the bottom -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <!-- Clean, Red Modern Logout Button -->
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="Logout"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#D32F2F"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
 </LinearLayout>

@@ -1,3 +1,8 @@
+Hassan, yeh lijiye bilkul complete aur final code.
+
+Aapne bas is niche wale black box ke top-right corner par bane **Copy** icon par click karna hai. Phir GitHub par ja kar purana saara text select karke delete karein, aur isko wahan **Paste** kar dein.
+
+```markdown
 # 📱 Shop Management App
 
 An intuitive, lightweight, and robust **Android Application** designed for small to medium-sized business owners to manage their daily shop operations effortlessly. Built using native Java and SQLite, this app tracks inventory, calculates real-time sales analytics, logs customer interactions, and provides detailed financial reports.
@@ -50,26 +55,34 @@ app/src/main/
     ├── layout/                  # Responsive XML views (activity_dashboard, activity_reports, etc.)
     └── mipmap-anydpi-v26/       # Premium custom adaptive 3D launcher icons
 
+```
 
-   ## 🚀 How To Run & Install
+## 🚀 How To Run & Install
 
 1. **Clone the repository:**
+
 ```bash
 git clone [https://github.com/ichhasaniqbal/Shop-Management-App.git](https://github.com/ichhasaniqbal/Shop-Management-App.git)
 
-Open the project folder inside Android Studio.
+```
 
-Make sure you have Git configured inside your IDE settings (File -> Settings -> Version Control -> Git).
+2. Open the project folder inside **Android Studio**.
+3. Make sure you have **Git** configured inside your IDE settings (File -> Settings -> Version Control -> Git).
+4. Let **Gradle** sync automatically (`Gradle 9.4.1` or above recommended).
+5. Connect your Android device via USB (with USB Debugging enabled) or start an Emulator, then click **Run (Shift + F10)**.
 
-Let Gradle sync automatically (Gradle 9.4.1 or above recommended).
+---
 
-Connect your Android device via USB (with USB Debugging enabled) or start an Emulator, then click Run (Shift + F10).
+## 📝 Future Roadmap
 
-📝 Future Roadmap
-[ ] Add automated low-stock alert notifications for inventory items.
+* [ ] Add automated low-stock alert notifications for inventory items.
+* [ ] Integrate digital wallet payment gateways (Easypaisa / JazzCash / Visa).
+* [ ] Implement secure cloud backup sync using a Firebase backend.
 
-[ ] Integrate digital wallet payment gateways (Easypaisa / JazzCash / Visa).
+---
 
-[ ] Implement secure cloud backup sync using a Firebase backend.
+Developed with 💪 by [Hassan Iqbal](https://www.google.com/search?q=https://github.com/ichhasaniqbal)
 
-Developed with 💪 by Hassan Iqbal
+```
+
+```

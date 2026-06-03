@@ -52,11 +52,11 @@ app/src/main/
 
 
 
-    🚀 How To Run & Install
+   ## 🚀 How To Run & Install
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ichhasaniqbal/Shop-Management-App.git](https://github.com/ichhasaniqbal/Shop-Management-App.git)
+```bash
+git clone [https://github.com/ichhasaniqbal/Shop-Management-App.git](https://github.com/ichhasaniqbal/Shop-Management-App.git)
 
 Open the project folder inside Android Studio.
 

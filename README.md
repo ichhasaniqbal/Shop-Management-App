@@ -51,7 +51,6 @@ app/src/main/
     └── mipmap-anydpi-v26/       # Premium custom adaptive 3D launcher icons
 
 
-
    ## 🚀 How To Run & Install
 
 1. **Clone the repository:**

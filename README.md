@@ -78,6 +78,5 @@ git clone [https://github.com/ichhasaniqbal/Shop-Management-App.git](https://git
 
 Developed with 💪 by Hassan Iqbal
 
-```
 
 ```

@@ -1,8 +1,3 @@
-Hassan, yeh lijiye bilkul complete aur final code.
-
-Aapne bas is niche wale black box ke top-right corner par bane **Copy** icon par click karna hai. Phir GitHub par ja kar purana saara text select karke delete karein, aur isko wahan **Paste** kar dein.
-
-```markdown
 # 📱 Shop Management App
 
 An intuitive, lightweight, and robust **Android Application** designed for small to medium-sized business owners to manage their daily shop operations effortlessly. Built using native Java and SQLite, this app tracks inventory, calculates real-time sales analytics, logs customer interactions, and provides detailed financial reports.
